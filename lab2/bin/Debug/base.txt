@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aircraft xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Year>2012</Year>
+  <DateService>23.02.2019</DateService>
+  <ID>3223-2323</ID>
+  <Type>Военный</Type>
+  <Model>СУ-47</Model>
+  <Members>
+    <Member>
+      <Fio>Артемов Артем Артемович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+    <Member>
+      <Fio>Ведоров Петр Сергеевич</Fio>
+      <Prof>Второй пилот</Prof>
+      <Age>26</Age>
+      <Exp>5</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>0</MemberNumber>
+  <Weight>8</Weight>
+  <ThisOwner>
+    <Name>Dassault Aviation</Name>
+    <Contry>Россия</Contry>
+    <Year>2002</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string>Грузовые</string>
+      <string>Военные</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft><?xml version="1.0" encoding="utf-8"?>
+<Aircraft xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Year>2016</Year>
+  <DateService>23.02.2019</DateService>
+  <ID>3223-2323</ID>
+  <Type>Пассажирский</Type>
+  <Model>СУ-47</Model>
+  <Members>
+    <Member>
+      <Fio>Петров Александ Викторович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>26</Age>
+      <Exp>8</Exp>
+    </Member>
+    <Member>
+      <Fio>Иванов Иван Иванович</Fio>
+      <Prof>Второй пилот</Prof>
+      <Age>25</Age>
+      <Exp>4</Exp>
+    </Member>
+    <Member>
+      <Fio>Сергеев Сергей Юрьевич</Fio>
+      <Prof>Бортпроводник 1</Prof>
+      <Age>24</Age>
+      <Exp>5</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>57</MemberNumber>
+  <Weight>9</Weight>
+  <ThisOwner>
+    <Name>Boeing</Name>
+    <Contry>Франция</Contry>
+    <Year>2009</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string>Грузовые</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft><?xml version="1.0" encoding="utf-8"?>
+<Aircraft xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Year>2014</Year>
+  <DateService>14.02.2019</DateService>
+  <ID>3223-2323</ID>
+  <Type>Грузовой</Type>
+  <Model>СУ-47</Model>
+  <Members>
+    <Member>
+      <Fio>Радчиков Артем Дмитриевич</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>0</MemberNumber>
+  <Weight>24</Weight>
+  <ThisOwner>
+    <Name>Fokker</Name>
+    <Contry>ОАЭ</Contry>
+    <Year>2005</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string>Грузовые</string>
+      <string>Военные</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>

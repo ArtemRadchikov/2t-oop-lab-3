@@ -1,0 +1,184 @@
+<Aircraft>
+  <Year>2005</Year>
+  <DateService>07.03.2019</DateService>
+  <ID>1111-1111</ID>
+  <Model>СУ-27</Model>
+  <Members>
+    <Member>
+      <Fio>Юревич Станислав Игорович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>119</MemberNumber>
+  <Weight>10</Weight>
+  <ThisOwner>
+    <Name>Gulfstream Aerospace Corporation</Name>
+    <Contry>Россия</Contry>
+    <Year>2005</Year>
+    <Types>
+      <string>Грузовые</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>
+<Aircraft>
+  <Year>2005</Year>
+  <DateService>07.03.2019</DateService>
+  <ID>4555-5555</ID>
+  <Model>СУ-27</Model>
+  <Members>
+    <Member>
+      <Fio>Архипенко Станислав икторович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>10</MemberNumber>
+  <Weight>10</Weight>
+  <ThisOwner>
+    <Name>Let Aircraft Industries</Name>
+    <Contry>Россия</Contry>
+    <Year>2005</Year>
+    <Types>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>
+<Aircraft>
+  <Year>2005</Year>
+  <DateService>05.03.2019</DateService>
+  <ID>1547-8988</ID>
+  <Type>Пассажирский</Type>
+  <Model>Боинг 737-8 MAX</Model>
+  <Members>
+    <Member>
+      <Fio>Еськов анотолий Степанович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>130</MemberNumber>
+  <Weight>24</Weight>
+  <ThisOwner>
+    <Name>Fokker</Name>
+    <Contry>Германия</Contry>
+    <Year>2006</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string>Грузовые</string>
+      <string>Военные</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>
+<Aircraft>
+  <Year>2006</Year>
+  <DateService>06.02.2019</DateService>
+  <ID>1111-8881</ID>
+  <Type>Военный</Type>
+  <Model>Боинг 767-300тм</Model>
+  <Members>
+    <Member>
+      <Fio>Иванов Иван Иванович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>22</MemberNumber>
+  <Weight>66</Weight>
+  <ThisOwner>
+    <Name>Англо-французский консорциум BAC-SNIAS</Name>
+    <Contry>Бразилия</Contry>
+    <Year>2005</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string>Грузовые</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>
+<Aircraft>
+  <Year>2007</Year>
+  <DateService>31.01.2019</DateService>
+  <ID>8999-9918</ID>
+  <Type>Военный</Type>
+  <Model>Боинг 767-300тм</Model>
+  <Members>
+    <Member>
+      <Fio>Петров Артем Викторович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>69</MemberNumber>
+  <Weight>28</Weight>
+  <ThisOwner>
+    <Name>Saab</Name>
+    <Contry>Чехия</Contry>
+    <Year>2005</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string>Грузовые</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>
+<Aircraft>
+  <Year>2007</Year>
+  <DateService>25.01.2019</DateService>
+  <ID>8887-7444</ID>
+  <Type>Грузовой</Type>
+  <Model>ИЛ-76 7011</Model>
+  <Members>
+    <Member>
+      <Fio>Павлов Андрей Игорович</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>55</MemberNumber>
+  <Weight>37</Weight>
+  <ThisOwner>
+    <Name>Vickers</Name>
+    <Contry>Канада</Contry>
+    <Year>2005</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string>Грузовые</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>
+<Aircraft>
+  <Year>2007</Year>
+  <DateService>15.12.2018</DateService>
+  <ID>8788-7444</ID>
+  <Type>Пассажирский</Type>
+  <Model>Ил-2</Model>
+  <Members>
+    <Member>
+      <Fio>Радчиков Артем Дмитриевич</Fio>
+      <Prof>Капитан</Prof>
+      <Age>30</Age>
+      <Exp>10</Exp>
+    </Member>
+  </Members>
+  <MemberNumber>18</MemberNumber>
+  <Weight>68</Weight>
+  <ThisOwner>
+    <Name>Let Aircraft Industries</Name>
+    <Contry>Россия</Contry>
+    <Year>2005</Year>
+    <Types>
+      <string>Пассажирские</string>
+      <string />
+    </Types>
+  </ThisOwner>
+</Aircraft>

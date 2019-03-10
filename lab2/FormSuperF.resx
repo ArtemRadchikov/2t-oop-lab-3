@@ -117,23 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="BackTrue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BackTrue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="buttonFind.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACQAAAAeCAYAAABE4bxTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA4xJREFUWEe1ltlRHEEQRNcYrr2wQRd8SggkWyQOK8ThhcA2cGCk16XXkzNL8KeJ
+        yKizq7Kre2Z3cbhZDwfr1VBy2XG03XR5uCG+6jH0veVh05fH22F/ddT9maePOPJou+5xfUj9oBFKSABp
+        IyBBmwBtyWXMDVatamhz/EnIteh9QsAkYaI6cj4xyGQudtUZd41/TgApzEPvhPaWVYRkgjS2mdOxWPos
+        9lYcKSRgbq5BLsb7o5xOhTtC8YQ+4hSEuDbrQNrkSMS66oBjpMbyeDNOyAI20SYRiV2LxyMDWZyY8axl
+        TtVZ75DTDxYcFYQKVYAJWARbZBFj2ua4kdEeLzSwBtNQNwfsHJkBSKnTQBI0zMLg7Nv58Pj0NDy/vAw8
+        SOwvF187KQi4Dmk9kPUXNWJf9+kdcqG7VjpB4j+vrxqJ2/u74f3pp+ZH/vpr8xAnT1Sd2ji6fZCd0P4K
+        EiPTBEm+bUAfpD6fn7WmSPOIU5M4k+NB5tFlnSQHJncoj0wU4XEHNkRyLLcP992fOU6D+O+nx+7LHCWQ
+        2M4dolkusrkFssjzy3M/pvQnPpyetDs1Xythpw8h7EbIKSAlJBGlBYG5PNjGkeo2RM88YPP0AdY0Qtyh
+        IjJNJAFdpA/Jzt+dfGx65qJbhwmSl3XNMxeCvIXE2ocxCZWsxCyMTBDjbnBH9JHneu28QyInVGvKBm1C
+        NaWxOUVNcBHAJk99+hYVEYHNd6jFv1/0esI3MsG6/vejGu2eLTqx+asP/Abx8N3x+JB3Dw/Nf3lzPamT
+        05j3QS44Lkn5dc6EPIKEZJBMiGOZf6n5PpHLepCE0JXq5PRL7dc3CwAJuZBJSYbdZ17WwM56qUsK6XpA
+        /X6HPC4LZZH0JZnXctHTT9MkYJ5TyekQ779lksqE1EEek35k5pvrBqe+QtYE5IhGqEZNcHdKJjIRnh9X
+        ly1uYUGO/rqL41TwOR1r5lqAj1j/DiEtAmyo5GEy2sJCQlLWKl/9I1RHZgzZCXmHClMyTip9b8UTGavc
+        kYg20vya8L9/jE6HIu4w3xiSgbqFzdOuouOEkBKZE9BWWre/9hKyaDaek9SPnOcgQTahKcDGnzFtMTky
+        i5HszrNIFjBuTtoSco3QB7m5X70TmjcG+HLH+kQVrw2g+/uUeegZE67JXtjttR+nVA1sMk+2gPr/mNKb
+        P66Z/Jpt07nvNT+6F1hdW3mwXg5/ALCHrUZQyU+BAAAAAElFTkSuQmCC
+</value>
   </data>
-  <data name="devenv_BJteaWHRqi" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\devenv_BJteaWHRqi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="buttonNext1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABYAAAAYCAYAAAD+vg1LAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAAO1JREFUSEvtk7EKwjAQQPsDfpe4+g+d/AI3ZxdXRyc/QJxV0KWIuGihQ7FSujqI
+        q5y8Qksak7ZIi0uHR8vl7pG7JE6yd6UNUvH7tW2UTpxTKX4+PAmjQM5+UoAYa6YaKBXH8UXWXiD9yUp6
+        w5k4g2kK/8RYu919Y61VTMFycy0IdVgjhw3o9UYxLbKbMmkGOeTqYzGKmR+t6pLx4iDHU5h+1Ti51KgO
+        o5jDse3WJCeXGtVhFWdFSGyo8v+LbaMYzXdf0tqjaO3wWrtuwKVv/IFk1HnSJimUioEWmR+Ho0JMb1+l
+        UvwrnTgnFzePKx/rj6dtKS29GwAAAABJRU5ErkJggg==
+</value>
   </data>
-  <data name="devenv_mWMJDTYwlw" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\devenv_mWMJDTYwlw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BackFalse" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BackFalse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="NextFalse" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\NextFalse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="NextTrue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\NextTrue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="buttonPrev1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAAOxJREFUSEvtlD0KwkAQRnMBzyW23iGHsLO28QpWHkCstdAmiNhoIEVQCWktxFZG
+        3sLKJuxPQBYsUjwSZme+b3Y2m6TepRITZfB+baPQGwTpZPB8ZFLeCjnldQNirNlqNEGDqjrLOitkOF3J
+        YDyXZDRT8E6Mtes9t9aC14DC5ebSEG7DGjk0YtNwGrB1uvOJa8gh1zYupwHzZQSm0GSxl8OxVE8zDuRS
+        09ZxGnCIZvc+cSCXmraO10AXa3EXOu//DKKOKPohR/9MgcsT7aJpuvwqXOIQNAC2znw5RBNitrGYdDL4
+        hd4gyNcgHql8AAUsVdqEM8xZAAAAAElFTkSuQmCC
+</value>
   </data>
 </root>

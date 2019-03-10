@@ -12,6 +12,7 @@ namespace lab2
 {
     public partial class Form3 : Form
     {
+        
     public Form3()
         {
 
@@ -25,7 +26,6 @@ namespace lab2
             textBox1.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
             textBox1.AutoCompleteSource = AutoCompleteSource.CustomSource;
         }
-
         private void buttonOK_Click(object sender, EventArgs e)
         {
             string value = "";

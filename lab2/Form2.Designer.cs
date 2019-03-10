@@ -168,7 +168,7 @@
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "О программе";
             ((System.ComponentModel.ISupportInitialize)(this.trackBarExp)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.upDownAge)).EndInit();
             this.ResumeLayout(false);
